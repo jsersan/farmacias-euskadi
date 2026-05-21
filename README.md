@@ -1,4 +1,4 @@
-# 🏥 Farmacias de Guardia - Euskadi
+# 🏥 Farmacias - Euskadi
 
 Aplicación web desarrollada con Angular 15 y OpenLayers para buscar y visualizar en un mapa las farmacias de guardia en la Comunidad Autónoma Vasca (Euskadi).
 
@@ -194,6 +194,3 @@ Si tienes preguntas o sugerencias, abre un issue en GitHub.
 ---
 
 **¡Gracias por usar Farmacias de Guardia - Euskadi!** 🏥💚
-# farmacias-guardia
-# farmacias-guardia
-# farmacias-euskadi
