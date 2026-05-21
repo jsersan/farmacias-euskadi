@@ -2,8 +2,6 @@
 
 Aplicación web desarrollada con Angular 15 y OpenLayers para buscar y visualizar en un mapa las farmacias de guardia en la Comunidad Autónoma Vasca (Euskadi).
 
-![Farmacias de Guardia](screenshot.png)
-
 ## 📋 Características
 
 - **Mapa interactivo** con todas las farmacias de Euskadi
