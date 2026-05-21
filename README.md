@@ -185,4 +185,4 @@ Si tienes preguntas o sugerencias, abre un issue en GitHub.
 
 ---
 
-**¡Gracias por usar Farmacias de Guardia - Euskadi!** 🏥💚
+**¡Gracias por usar Farmacias - Euskadi!** 🏥💚
