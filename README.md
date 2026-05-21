@@ -196,3 +196,4 @@ Si tienes preguntas o sugerencias, abre un issue en GitHub.
 **¡Gracias por usar Farmacias de Guardia - Euskadi!** 🏥💚
 # farmacias-guardia
 # farmacias-guardia
+# farmacias-euskadi
